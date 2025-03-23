@@ -1,4 +1,4 @@
-// below is an implementation of CH-64 (CrappyHash)
+// below is an implementation of CH-64 (CrapHash)
 // this code is provided under the Unlicense license, which means
 // that it is in the public domain and you can do whatever you want
 // with it
